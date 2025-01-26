@@ -1,1 +1,1 @@
-Creating a website which will consist of a main index page which will have links to a few recipes.
+Creating a website which will consist of a main landing page and have links to a few recipes.

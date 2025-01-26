@@ -1,0 +1,30 @@
+body {
+    background: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.home {
+    font-family: Georgia;
+    font-size: 20px;
+    color: pink
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: 30px;
+    color: pink
+}
+
+#description {
+    font-weight: 500;
+}
+
+p
+ol
+ul {
+    color: white;
+}
